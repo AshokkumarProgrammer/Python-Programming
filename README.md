@@ -1,2 +1,2 @@
-# Programming - By Ashok Kumar
+# Python Programming - By Ashok Kumar
  I upload python programs in Hackerrank
